@@ -47,5 +47,6 @@ namespace DeepMixing.ViewModel
             // Startup Page
             CurrentView = new HomeVM();
         }
+        
     }
 }
