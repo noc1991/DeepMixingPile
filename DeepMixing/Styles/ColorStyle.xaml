@@ -1,0 +1,25 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:DeepMixing.Styles">
+
+    <!--  Background Colors  -->
+    <SolidColorBrush x:Key="PrimaryBackgroundColor" Color="#004898" />
+    <SolidColorBrush x:Key="SecondaryBackgroundColor" Color="#001C3B" />
+
+    <!--  Primary Colors  -->
+    <!--<SolidColorBrush x:Key="PrimaryBlueColor" Color="#5B7FFF" />-->
+    <SolidColorBrush x:Key="PrimaryForegroundColor" Color="#DCDCDC" />
+    <SolidColorBrush x:Key="PrimaryGrayColor" Color="#BFBFC4" />
+
+    <!--  Secundary Colors  -->
+    <SolidColorBrush x:Key="SecundaryBlueColor" Color="#5B7FFF" />
+    <SolidColorBrush x:Key="SecundaryGrayColor" Color="#EEEEEE" />
+
+    <!--  Typograhy Colors  -->
+    <SolidColorBrush x:Key="TextPrimaryColor" Color="#020F16" />
+    <SolidColorBrush x:Key="TextSecundaryColor" Color="#F0EF14" />
+
+    <!--  Icons Colors  -->
+    <SolidColorBrush x:Key="ActionIconColor" Color="#21B4C2" />
+</ResourceDictionary>
